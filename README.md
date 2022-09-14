@@ -1,6 +1,6 @@
 The project was developed in the course 3D computer graphics At Grenoble-INP Ensimag. The project covers the implementation of a 3D scene in Python using OpenGL.
 
-##Testing 
+## Testing 
 
 ```
 $ python3 viewer.py
